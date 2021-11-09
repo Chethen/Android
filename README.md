@@ -2,7 +2,9 @@
 
 <h1>Team Members</h1>
 
-Ashis Thapa Chhetri
-Avinash rai
-Prajwal P
-Chethen Kumar B
+<ul>
+  <li>Ashis Thapa Chhetri</li>
+  <li>Avinash rai</li>
+  <li>Prajwal P</li>
+  <li>Chethen Kumar B</li>
+ </ul>
