@@ -1,4 +1,4 @@
-# This is KVGE Final Years Project.
+# This is K.V.G College of Engineering Final Years Project.
 
 <h1>Team Members</h1>
 
